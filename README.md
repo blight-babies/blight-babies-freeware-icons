@@ -1,2 +1,2 @@
-# blight-babies-freeware-icons
-A list of old blight babies pictures
+# byte-babies-freeware-icons
+Team icons/logos
